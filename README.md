@@ -1,2 +1,2 @@
-## Simulador de Rolagem de Dado
+## 🎲 Simulador de Rolagem de Dado
 Lance um dado virtual!
